@@ -1,0 +1,29 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "This is GraphQL test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "command": "command.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuyaW/GraphQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KuyaW/GraphQL/issues"
+  },
+  "homepage": "https://github.com/KuyaW/GraphQL#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.10.1"
+  }
+}
